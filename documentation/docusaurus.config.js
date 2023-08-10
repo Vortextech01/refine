@@ -151,7 +151,7 @@ const siteConfig = {
         navbar: {
             logo: {
                 alt: "refine",
-                src: "img/refine_logo.png",
+                src: "img/7775025A-47C1-4A70-954D-11F56F256109.png",
             },
             items: [
                 { to: "blog", label: "Blog", position: "left" },
